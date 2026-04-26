@@ -1,4 +1,4 @@
-import Navbar from '../component/shared/Navbar';
+import Navbar from '../../component/shared/Navbar';
 
 const Augthlayout = ({children}) => {
     return (
