@@ -1,11 +1,10 @@
-import Navbar from 'daisyui/components/navbar';
-import React from 'react';
+import Navbar from '../component/shared/Navbar';
 
 const Augthlayout = ({children}) => {
     return (
         <div>
             <Navbar/>
-            {children}
+            {children}            
         </div>
     );
 };

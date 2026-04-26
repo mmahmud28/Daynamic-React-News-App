@@ -1,6 +1,7 @@
 import React from 'react';
 import Header from '../component/shared/Header';
-import Navbar from 'daisyui/components/navbar';
+import Navbar from '../component/shared/Navbar';
+
 
 const Mainlayout = ({children}) => {
     return (
